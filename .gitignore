@@ -1,0 +1,8 @@
+# ignore application data
+data/*
+
+# ignore automatically retrieved dependencies
+node_modules
+
+# ignore log files - since your might encountered a npm_debug.log
+*.log
